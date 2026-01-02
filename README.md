@@ -222,8 +222,7 @@ This tuning process was used to define different similarity thresholds for:
 👤 Author
 Siddiqui Atif Iqbal
 AI / ML Enthusiast
-GitHub: your-github-link
-LinkedIn: your-linkedin-link
+LinkedIn:https://www.linkedin.com/in/atif-siddiqui-481623367/
 
 This project demonstrates real-world RAG design, not just a demo chatbot.
 It focuses on accuracy, trust, and clean architecture, which are critical in enterprise AI systems.
